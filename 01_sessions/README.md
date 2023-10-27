@@ -1,0 +1,1 @@
+## Create a session for user authentication.
